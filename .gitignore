@@ -1,0 +1,19 @@
+# Chaves e segredos — NUNCA subir para o repositório
+.env
+
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configurações de editor
+.vscode/
+.idea/
+
+# Logs
+*.log

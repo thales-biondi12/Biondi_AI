@@ -1,0 +1,9 @@
+{
+    "app_name": "Biondi AI",
+    "appearance_mode": "dark",
+    "color_theme": "blue",
+    "window_width": 1000,
+    "window_height": 620,
+    "assistant_name": "Biondi",
+    "user_name": "Thales"
+}
